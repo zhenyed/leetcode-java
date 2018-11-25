@@ -6,5 +6,5 @@
 | :--- | :-------------------------- | :--- | ---- |
 |905|[Two Sum][905]    |Array| Easy |
 
-[905]: https://leetcode.com/problems/sort-array-by-parity/
+[905]: https://github.com/zhenyed/leetcode-java/tree/master/src/905
 
